@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "9832000000007078",
+      "name": "JeyavelPortfolio",
+      "domain": {
+        "id": "50022762833",
+        "name": "jeyavelportfolio-60033627096.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60033627096",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
